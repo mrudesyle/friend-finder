@@ -1,0 +1,22 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "first full stack app using node.js, express, and bootstrap",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "javaascript",
+    "bootstrap"
+  ],
+  "author": "mark a. rudesyle",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
